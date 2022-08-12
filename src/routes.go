@@ -1,0 +1,5 @@
+package goLaravel
+
+func init() {
+
+}
